@@ -1,4 +1,4 @@
-# Deployed online at https://metromedpills.herokuapp.com/
+# Final submission deployed online at https://metromedpills.herokuapp.com/
 Go to https://metromedpills.herokuapp.com/ to view our project (deployed on Heroku)
 
 # Design System
