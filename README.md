@@ -1,3 +1,6 @@
+# Deployed online at https://metromedpills.herokuapp.com/
+Go to https://metromedpills.herokuapp.com/ to view our project (deployed on Heroku)
+
 # Design System
 
 All the design has been generated with [tailwindcss](https://tailwindcss.com/).
